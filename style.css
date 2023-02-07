@@ -27,13 +27,13 @@ body{
 }
 
 .main{
-    margin-top: 50px; 
-    width: 90%;
+    margin-top: 40px; 
+    width: 85%;
     padding-left: 13em;
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 75px 10em;
+    gap: 10px ;
 
 }
 
@@ -49,7 +49,7 @@ body{
 }
 
 .bloc:hover {
-    transform:scale(1.1);
+    transform:scale(1.04);
 }
 
 .slider{
