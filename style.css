@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+html{
+    cursor: crosshair;
+}
+
+body{
+    background-image: url(img/background_main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.text-lvl-1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 2em;
+    font-family: 'Unbounded', cursive;
+}
+
+#title{
+    color: rgb(229, 228, 228);
+}
+#under-title{
+    color: aliceblue;
+}
+
+.main{
+    margin-top: 50px; 
+    width: 90%;
+    padding-left: 13em;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 75px 10em;
+
+}
+
+.bloc{
+    width: 300px;
+    height: 350px;
+    border-radius: 10px;
+    background-color: rgba(240, 248, 255, 0.623) ;
+    padding: 15px;
+
+
+    transition: all 1s ease;
+}
+
+.bloc:hover {
+    transform:scale(1.1);
+}
+
+.slider{
+    width: auto;
+    height: 130px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+  
+
+.bloc-hp{
+    text-align: center;
+}
+
+.title-bloc{
+    color: rgb(46, 40, 119);
+    font-family: 'Itim', cursive;
+}
+
+.text-bloc{
+    text-align: center;
+    height: 116px;
+    width: auto;
+    cursor: crosshair;
+}
+.lire_suite{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+
+
+.boutton_article{ 
+    position: relative;
+}
+
+
+.image-slider{
+    border-radius: 10px;
+    width: auto;
+    height: 130px;
+
+}

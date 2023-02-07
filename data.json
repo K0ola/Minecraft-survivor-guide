@@ -1,0 +1,47 @@
+[
+    {
+        "beginning":{
+            "name":"beginning",
+            "text_main":" il faudra chercher et récolter en priorité certaines ressources pour bien commencer votre aventure.",
+            "link": "https://www.jeuxvideo.com/wikis-soluce-astuces/comment-bien-debuter-une-partie-en-survival/234268",
+            "img": ""
+        },
+
+        "other":{
+            "name":"other",
+            "text_main":"⚠️Important⚠️<br>Ce site est encore en dveloppement !<br>Site d'entrainement au développement web<br><br>Dev par K0la ❤️<br><br>https://discord.gg/xXnGD57CWT<br><br>Toutes les informations liées a la survie sur minecraft son copiés collés !<br>Informations inutiles :/",
+            "link":"",
+            "img": ""
+        },
+
+        "minage":{
+            "name":"minage",
+            "text_main":"Dans Minecraft 1.18 et 1.19, les minerais sont distribués de manière triangulaire, avec des points d’apparition qui augmentent et diminuent au fur et à mesure que les joueurs se déplacent vers le haut et le bas des niveaux.",
+            "text_main_suite": "Dans Minecraft 1.18 et 1.19, les minerais sont distribués de manière triangulaire, avec des points d’apparition qui augmentent et diminuent au fur et à mesure que les joueurs se déplacent vers le haut et le bas des niveaux. Cela signifie que le point médian de l’apparition d’un minerai est généralement le meilleur endroit pour chercher ce minerai particulier, car c’est là que le point d’apparition est le plus élevé. Le graphique suivant montre exactement comment cela se manifeste dans le jeu, et il y a plus de détails sur chaque minerai individuel en dessous.",
+            "link":"https://minecraft.fr/a-quelle-couche-trouver-les-minerais-dans-minecraft-1-18/",
+            "img": ""
+        },
+
+        "build":{
+            "name":"build",
+            "text_main":"Nous avons appris, dès notre premier jour passé sur Minecraft, que l’habitat le plus simple pouvait garantir la survie durant la nuit. ",
+            "link":"https://minecraft.fr/le-guide-de-larchitecte/",
+            "img": ""
+        },
+
+        "farm":{
+            "name":"farm",
+            "text_main":"Construire une farm est l'une des premières tâches que vous devez accomplir dans Minecraft .",
+            "link":"https://www.ign.com/wikis/minecraft/Farming_Guide",
+            "img": ""
+        },
+
+        "end":{
+            "name":"end",
+            "text_main":"Vous avez passé d'innombrables heures à extraire des minerais, survivre et construire ? Vous vous êtes ennuyé et vous n'avez aucune idée de ce qu'il faut ensuite faire ? Ce guide vous apprendra comment « finir » Minecraft.",
+            "link":"https://fr.wikihow.com/finir-Minecraft",
+            "img": ""
+        }
+
+    }
+]
