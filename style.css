@@ -14,6 +14,8 @@ body{
 
 .text-lvl-1{
     text-align: center;
+    position: relative;
+    left:-1.5%;
     font-weight: 700;
     font-size: 2em;
     font-family: 'Unbounded', cursive;
